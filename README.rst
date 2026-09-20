@@ -29,25 +29,3 @@ Solutions
 
 * `Debugging <https://github.com/pioarduino/pioarduino-vscode-debug>`_
 
-Contributing
-------------
-
-See `contributing guidelines <https://github.com/pioarduino/platformio-core/blob/develop/CONTRIBUTING.md>`_.
-
-Telemetry
----------
-
-Removed
-
-
-License
--------
-
-Copyright (c) 2014-present PlatformIO <contact@platformio.org>, pioarduino contributors
-
-The pioarduino Core is licensed under the permissive Apache 2.0 license,
-so you can use it in both commercial and personal projects with confidence.
-
-.. image:: https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg
-    :target: https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md
-    :alt:  SWUbanner
